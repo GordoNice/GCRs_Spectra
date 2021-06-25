@@ -1,5 +1,4 @@
-# GCRs Spectra
-![](https://github.com/GordoNice/GCRs_Spectra/blob/master/Logo.svg "GCRs Spectra Logo")
+# ![](https://github.com/GordoNice/GCRs_Spectra/blob/master/Logo.svg "GCRs Spectra Logo") GCRs Spectra
 
 The program with GUI for calculating spectra of GCR particles with spectrum modulation
 depending on the value of the Wolf number, the calculations are based on the
